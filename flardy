@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Сайт Flardy</title>
+</head>
+<body>
+
+<div id="block-body">
+	
+<header>
+	<div class="logo">
+		<a href="index.html">
+		<span class="Fla">FLA</span>-<span class="rdy">RDY</span>.ru
+		</a>
+
+	</div>
+
+	<div class="lutshiy-menu">
+
+		<ul>
+			<li><a href="#">Ничему не научем</a></li>
+			<li><a href="#">Пропиарим канал</a></li>
+            <li><a href="#">Выпросим лайки</a></li>
+            <li><a href="#">И пошлём вас</a></li>
+		</ul>
+		
+	</div>
+
+	<div class="block-auth-menu">
+		<p><a href="#">Вход</p></a>
+		<p><a href="#">Регистрация</p></a>
+	</div>
+
+
+
+
+
+
+
+
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>	
+
+
+	 <h1 style="position: relative;text-align: center;">Лучший ютубер Flardy!</h1>
+	 <hr>
+     <h2 style="position: relative;text-align: center;">Подпишитесь не пожалеете!</h2>
+     <br>
+     <h3 style="position: relative;text-align: center;">Первое видео</h3>
+     <br>
+     <p style="position: relative;text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DcieqS6OrkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <br>
+     <a style="position: relative;text-align: center; " href="https://www.youtube.com/channel/UCK4dx9MObjZm0gBHtQ8TIsg"><big>Канал того самого)<big></a>
+     <br>
+     <a style="position: relative;text-align: center; " href="https://vk.com/flardyyy"><big>Страница в вк ютубера Flardy<big></a>
+     <br><br>
+     <br><br>
+     <p>Как и просили, википедия про страусиные яйца</p>
+     <p><big>Африка́нский стра́ус (лат. Struthio camelus) — бескилевая нелетающая птица, единственный современный представитель семейства страусовых (Struthionidae).</big></p>
+     <p><big>Яйцо́, или ооци́т, или яйцеклетка, — женская половая клетка, из которой в результате оплодотворения или путём партеногенеза развивается новый организм[1][2]. Размеры яйцеклеток могут сильно варьировать: яйцеклетка мыши имеет диаметр приблизительно 0,06 мм, в то время как диаметр яйца африканского страуса может достигать 15,5 см[1]. Для яиц обычно характерна шарообразная или овальная формa, но они также бывают удлинёнными, например у насекомых, миксин или муловой рыбы. Оология — отдел зоологии, посвящённый изучению яиц животных, преимущественно птичьих.</big></p>	
+     <br><br>
+     <h2>КАК ОНИ ВЫСАЖИВАЮТ ЯЙЦО???СЕЙЧАС УВИДИТЕ!!!</h2>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/MtlcMduAOxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+     <br><br>
+     <h2>Ждёмс оценку от Flardy)</h2>
+</body>
+</html>
